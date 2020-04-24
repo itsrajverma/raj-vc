@@ -23,7 +23,7 @@ yarn watch:client
 
 **Heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsrajverma/raj-vc/tree/production)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsrajverma/raj-vc/tree/master)
 
 **Custom**
 ```
